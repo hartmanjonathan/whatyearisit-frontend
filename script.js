@@ -1,5 +1,5 @@
 // Fonction pour récupérer l'année depuis le backend hébergé sur Vercel
-fetch("whatyearisit-backend-blond.vercel.app/year")
+fetch("whatyearisit-f8upiam5h-hartmans-projects.vercel.app/year")
 // transformé en json
 .then(response => response.json())
 .then(data => {
